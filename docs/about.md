@@ -1,0 +1,1 @@
+This is a GC content calculator for DNA sequences.

@@ -1,6 +1,6 @@
 site_name: GC Calculator Documentation
 site_url: https://tillsa.github.io/GC_Calc/
 nav:
-    - Home: docs/index.md
-    - About: docs/about.md
+    - Home: index.md
+    - About: about.md
 theme: readthedocs
